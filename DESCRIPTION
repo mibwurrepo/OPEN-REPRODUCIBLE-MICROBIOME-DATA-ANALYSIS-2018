@@ -30,5 +30,5 @@ Suggests:
     knitr,
     rmarkdown,
 MailingList: microbiome <microbiome-devel@googlegroups.com>
-BugReports: https://github.com/microbiome/microbiome/issues
+URL: https://github.com/mibwurrepo/OPEN-REPRODUCIBLE-MICROBIOME-DATA-ANALYSIS-2018
 
