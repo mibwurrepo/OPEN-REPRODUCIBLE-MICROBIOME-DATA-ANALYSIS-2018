@@ -1,0 +1,12 @@
+template:
+  params:
+
+navbar:
+  title: "OPEN & REPRODUCIBLE MICROBIOME DATA ANALYSIS SUMMER SCHOOL"
+  left:
+    - text: "About"
+      href: index.html
+    - text: "Resources and links"
+      href: reference/Resources_and_links.html
+    - text: "Gallery"
+      href: reference/gallery.html
