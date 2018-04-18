@@ -1,0 +1,76 @@
+
+---
+title: "OPEN & REPRODUCIBLE MICROBIOME DATA ANALYSIS SUMMER SCHOOL" 
+---
+
+
+Wageningen, The Netherlands, May 28-30, 2018     
+======================================================
+
+Microbiome R package {.sidebar}
+-----------------------------------------------------------------------
+<img src="../images/microbiomeR_Stickerreseize.png" height="200px" width="100px" />
+ 
+
+Gallery  {.tabset .tabset-fade}
+-----------------------------------------------------------------------  
+
+The following visualisations were created using the [Human microbiome project phase I data](https://www.ncbi.nlm.nih.gov/pubmed/22699609). The 16S rRNA gene variable region sequenced here is V1-V3. The raw reads were processed using QIIME 1.9.1, SortMeRNA, and OTU picking was done using the Closed-reference OTU-picking at 97% identity. We acknowledge the effort of the authors of Human microbiome project phase I for making the data freely available.  
+
+### Prevalence  
+
+<center>![ Prevalence](../images/taxa_prev_plot.png)</center>   
+
+
+### Composition barplot 
+
+<center>![ Composition barplot](../images/barplot_composition.png)</center>   
+
+
+### Composition heatmap   
+
+<center>![ Composition heatmap](../images/heatmap_composition.png)</center>   
+
+
+### Core microbiota    
+
+<center>![ Core microbiota](../images/core_plot.png)</center>   
+
+
+### Alpha diversity  
+
+<center>![ Alpha diversity](../images/AlphaDivPlot.png)</center>   
+
+
+### Polulation-level-density  
+
+<center>![ polulation-level-density](../images/polulation-level-density.png)</center>   
+
+
+### Ordination   
+
+<center>![ Ordination](../images/unifrac_plot.png)</center>   
+
+
+### Network inference     
+
+<center>![ Network](../images/network.png)</center>   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
