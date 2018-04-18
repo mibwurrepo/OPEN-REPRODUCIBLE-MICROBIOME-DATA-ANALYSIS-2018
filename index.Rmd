@@ -9,7 +9,7 @@ author: "MolEco WUR"
  
 # TEST WEBPAGE!
 
-## Wageningen, The Netherlands, May XX-XX, 2018   
+## Wageningen, The Netherlands, May 28-30, 2018   
   
 <center>![ microbiome R package](docs/images/microbiomeR_Stickerreseize.png)</center>  
 
