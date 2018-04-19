@@ -7,7 +7,6 @@ author: "MolEco WUR"
 
 # OPEN & REPRODUCIBLE MICROBIOME DATA ANALYSIS SUMMER SCHOOL  
  
-# TEST WEBPAGE!
 
 ## Wageningen, The Netherlands, May 28-30, 2018   
   

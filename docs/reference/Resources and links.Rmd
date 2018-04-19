@@ -24,6 +24,8 @@ Install the following software before the course, if possible:
 * [microbiome](http://microbiome.github.io/microbiome/)  
 * [ggplot2](http://ggplot2.org/)   
 
+The summer school material are available online [here](https://mibwurrepo.github.io/Summer-School-Material-2018/)    
+
 
 **Tips for using R**
 
@@ -33,13 +35,24 @@ Install the following software before the course, if possible:
 
 
 
+* [R](https://www.r-project.org/).  
+* [Phyloseq](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0061217).    
+* [microbiome](http://microbiome.github.io/microbiome/).   
+* [ggplot2](http://ggplot2.org/).  
+* [RMarkdown](https://rmarkdown.rstudio.com/).  
+* [RMarkdown cheat sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf).  
+* [R Studio](https://www.rstudio.com/).     
+* [List of R tools for microbiome analysis](https://github.com/microsud/Tools-Microbiome-Anlaysis).  
+
+
+
 ### About the organisers    
 
 For more information visit our university website:  
 
 * [Laboratory of Microbiology](https://www.wur.nl/en/Expertise-Services/Chair-groups/Agrotechnology-and-Food-Sciences/Laboratory-of-Microbiology.htm)  
 
-* [Lahti Lab / Department of Mathematics and Statistics University of Turku](http://www.iki.fi/Leo.Lahti)  
+* [Department of Mathematics and Statistics University of Turku](https://www.utu.fi/en/units/sci/units/math/Pages/home.aspx)  
 
 * [Systems and Synthetic Biology](https://www.wur.nl/en/Expertise-Services/Chair-groups/Agrotechnology-and-Food-Sciences/Laboratory-of-Systems-and-Synthetic-Biology.htm)   
 

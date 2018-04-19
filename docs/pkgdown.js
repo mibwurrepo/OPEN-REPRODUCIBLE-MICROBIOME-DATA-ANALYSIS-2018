@@ -98,4 +98,3 @@ if(Clipboard.isSupported()) {
     });
   });
 }
-

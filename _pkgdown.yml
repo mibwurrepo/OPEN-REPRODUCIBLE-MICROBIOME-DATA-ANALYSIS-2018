@@ -1,12 +1,15 @@
 template:
   params:
+    bootswatch: cosmo
+  
 
 navbar:
   title: "OPEN & REPRODUCIBLE MICROBIOME DATA ANALYSIS SUMMER SCHOOL"
   left:
     - text: "About"
       href: index.html
-    - text: "Resources and links"
+    - text: "Resources and Llinks"
       href: reference/Resources_and_links.html
     - text: "Gallery"
       href: reference/gallery.html
+
