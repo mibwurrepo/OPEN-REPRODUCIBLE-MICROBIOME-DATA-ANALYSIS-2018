@@ -35,17 +35,6 @@ The summer school material are available online [here](https://mibwurrepo.github
 
 
 
-* [R](https://www.r-project.org/).  
-* [Phyloseq](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0061217).    
-* [microbiome](http://microbiome.github.io/microbiome/).   
-* [ggplot2](http://ggplot2.org/).  
-* [RMarkdown](https://rmarkdown.rstudio.com/).  
-* [RMarkdown cheat sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf).  
-* [R Studio](https://www.rstudio.com/).     
-* [List of R tools for microbiome analysis](https://github.com/microsud/Tools-Microbiome-Anlaysis).  
-
-
-
 ### About the organisers    
 
 For more information visit our university website:  
