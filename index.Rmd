@@ -15,17 +15,15 @@ author: "MolEco WUR"
 Three day summer school on the basics of high throughput 16S rRNA gene sequencing data analysis. This summer school is organised in collaboration with [VLAG](https://www.vlaggraduateschool.nl/en.htm), [Laboratory of Microbiology](https://www.wur.nl/en/Expertise-Services/Chair-groups/Agrotechnology-and-Food-Sciences/Laboratory-of-Microbiology.htm), [Systems and Synthetic Biology](https://www.wur.nl/en/Expertise-Services/Chair-groups/Agrotechnology-and-Food-Sciences/Laboratory-of-Systems-and-Synthetic-Biology.htm), Wageningen University & Research, the Netherlands and [Department of Mathematics and Statistics University of Turku](https://www.utu.fi/en/units/sci/units/math/Pages/home.aspx), Finland. This year it will be held at [Wageningen University & Research](https://www.wur.nl/en.htm). We will cover topics related to the basics of sequencing and microbial community analysis. We will use [NG-Tax](https://f1000research.com/articles/5-1791/v1) and [R](https://www.r-project.org/) based tools like [Phyloseq](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0061217), [microbiome](http://microbiome.github.io/microbiome/) and [ggplot2](http://ggplot2.org/) for downstream data analysis and visualization.   
 
 ### Focus of summer school:
-The aim is to introduce microbial community data analysis. There will be talks and discussion on theory and methodologies and We will cover topics such as design of studies, sequencing technologies, OTU picking, importance of controls and standardization of wetlab procedures. The course will focus on supervised, hands-on processing of raw reads, downstream analysis in R for exploration and (biological) interpretation. There will be a strong focus on using [R](https://www.r-project.org/), [R Studio](https://www.rstudio.com/) to facilitate the current trend towards reproducible and open science.    
+The aim is to introduce microbial community data analysis. There will be talks and discussion on theory and methodologies and we will cover topics such as study design, sequencing technologies, OTU picking, importance of controls and standardization of wetlab procedures, and basics in statistical analysis of taxonomic profiling data. The course will focus on supervised, hands-on processing of raw reads, downstream analysis in R for exploration and (biological) interpretation. There will be a strong focus on using [R](https://www.r-project.org/) and [R Studio](https://www.rstudio.com/) to facilitate the current trend towards reproducible and open science.    
 
 ### Target applicants:
-Anyone who plans to *or* is currently doing high throughput microbial community analysis.  
-No prior knowledge of R software is required.  
+Anyone who plans to *or* already has some experience in high throughput microbial community analysis. No prior knowledge of R software is required. 
 
 ### Location:  
 The summer school will be organised in Wageningen University & Research, The Netherlands. 
 
-Additional details are forthcoming.
-
+Further information will be sent for the registered participants.
 
 **We have limited number of seats and registration will be on a first-come, first-serve basis.**  
 
