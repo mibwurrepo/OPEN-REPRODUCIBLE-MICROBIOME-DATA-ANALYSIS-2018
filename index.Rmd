@@ -1,30 +1,43 @@
+
 ---
 title: "OPEN & REPRODUCIBLE MICROBIOME DATA ANALYSIS SUMMER SCHOOL"
 author: "MolEco WUR"
 ---
 
 
-# OPEN & REPRODUCIBLE MICROBIOME DATA ANALYSIS SUMMER SCHOOL  
+# OPEN & REPRODUCIBLE MICROBIOME DATA ANALYSIS SPRING SCHOOL   
  
 
 ## Wageningen, The Netherlands, May 28-30, 2018   
   
-<center>![ Organisers](docs/images/logos.png)</center>  
+<center>![ Organisers](docs/images/logos.png)</center> 
 
-Three day summer school on the basics of high throughput 16S rRNA gene sequencing data analysis. This summer school is organised in collaboration with [VLAG](https://www.vlaggraduateschool.nl/en.htm), [Laboratory of Microbiology](https://www.wur.nl/en/Expertise-Services/Chair-groups/Agrotechnology-and-Food-Sciences/Laboratory-of-Microbiology.htm), [Systems and Synthetic Biology](https://www.wur.nl/en/Expertise-Services/Chair-groups/Agrotechnology-and-Food-Sciences/Laboratory-of-Systems-and-Synthetic-Biology.htm), Wageningen University & Research, the Netherlands and [Department of Mathematics and Statistics University of Turku](https://www.utu.fi/en/units/sci/units/math/Pages/home.aspx), Finland. This year it will be held at [Wageningen University & Research](https://www.wur.nl/en.htm). We will cover topics related to the basics of sequencing and microbial community analysis. We will use [NG-Tax](https://f1000research.com/articles/5-1791/v1) and [R](https://www.r-project.org/) based tools like [Phyloseq](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0061217), [microbiome](http://microbiome.github.io/microbiome/) and [ggplot2](http://ggplot2.org/) for downstream data analysis and visualization.   
+Three day summer school on basics of high throughput 16S rRNA gene sequencing data analysis. This summer school is organised in collaboration with [VLAG](https://www.vlaggraduateschool.nl/en.htm), [Laboratory of Microbiology](https://www.wur.nl/en/Expertise-Services/Chair-groups/Agrotechnology-and-Food-Sciences/Laboratory-of-Microbiology.htm), [Systems and Synthetic Biology](https://www.wur.nl/en/Expertise-Services/Chair-groups/Agrotechnology-and-Food-Sciences/Laboratory-of-Systems-and-Synthetic-Biology.htm), Wageningen University & Research, the Netherlands and [Department of Mathematics and Statistics University of Turku](https://www.utu.fi/en/units/sci/units/math/Pages/home.aspx), Finland. This year it will be held at [Wageningen University & Research](https://www.wur.nl/en.htm). We will cover topics related to basics of sequencing and microbial community analysis. We will use [NG-Tax]( https://f1000research.com/articles/5-1791/v1) and [R](https://www.r-project.org/) based tools like [Phyloseq](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0061217), [microbiome](http://microbiome.github.io/microbiome/) and [ggplot2](http://ggplot2.org/) for downstream data analysis and visualization.   
 
 ### Focus of summer school:
-The aim is to introduce microbial community data analysis. There will be talks and discussion on theory and methodologies and we will cover topics such as study design, sequencing technologies, OTU picking, importance of controls and standardization of wetlab procedures, and basics in statistical analysis of taxonomic profiling data. The course will focus on supervised, hands-on processing of raw reads, downstream analysis in R for exploration and (biological) interpretation. There will be a strong focus on using [R](https://www.r-project.org/) and [R Studio](https://www.rstudio.com/) to facilitate the current trend towards reproducible and open science.    
+The primary aim is introduce microbial community data analysis. There will be talks and discussion on theory and methodology for analysis of microbial community data. We will cover topics ranging from design of studies, sequencing technologies, importance of controls and standardized DNA processing. Supervised hands-on training covering analyses from raw reads using NG-Tax, downstream analysis in R for exploration and analysis of microbiome sequencing data will be priority. There will be a strong focus on using [R](https://www.r-project.org/), [R Studio](https://www.rstudio.com/) for moving towards reproducible and open science.    
 
 ### Target applicants:
-Anyone who plans to *or* already has some experience in high throughput microbial community analysis. No prior knowledge of R software is required. 
+Anyone who plans to *or* is currently doing high throughput microbial community analysis.  
+No prior knowledge of R software is required.  
 
 ### Location:  
 The summer school will be organised in Wageningen University & Research, The Netherlands. 
 
-Further information will be sent for the registered participants.
+Additional details are forthcoming.
 
-**We have limited number of seats and registration will be on a first-come, first-serve basis.**  
+**Number of participants: 25**    
+
+### Registration dates  
+
+* **Starting date: 27th April 2018**   
+
+* **Deadline: 18th May 2018**  
+
+
+### Program  
+
+[ Click here for the program](docs/reference/Program.html)  
 
 **Registration will open shortly.**  
 
@@ -45,7 +58,7 @@ Further information will be sent for the registered participants.
 * Wasin Poncheewin, wasin.poncheewin[at]wur.nl  
 * Jasper Koehorst, jasper.koehorst[at]wur.nl  
 
-### More information on research      
+### More information        
 
 For more information visit our university website:  
 
@@ -57,7 +70,7 @@ For more information visit our university website:
 
 * [Systems and Synthetic Biology](https://www.wur.nl/en/Expertise-Services/Chair-groups/Agrotechnology-and-Food-Sciences/Laboratory-of-Systems-and-Synthetic-Biology.htm)   
 
-* [Research at Laboratory of Microbiology](https://www.wur.nl/en/Expertise-Services/Chair-groups/Agrotechnology-and-Food-Sciences/Laboratory-of-Microbiology/Research.htm)   
+ 
 
 
 
