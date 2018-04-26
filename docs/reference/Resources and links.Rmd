@@ -1,18 +1,12 @@
 
 ---
 title: "OPEN & REPRODUCIBLE MICROBIOME DATA ANALYSIS SUMMER SCHOOL"   
-author: "MolEco WUR"  
 ---
 
 
 ## Wageningen, The Netherlands, May 28-30, 2018     
   
   
-  
-<center>![ microbiome R package](../images/logos.png)</center>  
-
-
-
 ### Preparing for the course
 
 We recommend using your own laptop. If this is not possible, kindly contact the organizers.
@@ -50,9 +44,9 @@ For more information visit our university website:
 
 * [Research at Laboratory of Microbiology](https://www.wur.nl/en/Expertise-Services/Chair-groups/Agrotechnology-and-Food-Sciences/Laboratory-of-Microbiology/Research.htm)  
 
+--------------------------------------------------------------
 
-
-
+<center>![ microbiome R package](../images/logos.png)</center>  
 
 
 

@@ -2,19 +2,24 @@
 title: "OPEN & REPRODUCIBLE MICROBIOME DATA ANALYSIS SUMMER SCHOOL"   
 ---
 
-
 ## Wageningen, The Netherlands, May 28-30, 2018  
 
 
-<center>![ Organisers](../images/logos.png)</center>  
 
 
 <center>![ Organisers](../images/Day1.png)</center>   
 
+---------------------------------------------------
 
 <center>![ Organisers](../images/Day2.png)</center>   
 
+---------------------------------------------------
 
 <center>![ Organisers](../images/Day3.png)</center>   
 
+---------------------------------------------------
 
+<center>![ Organisers](../images/logos.png)</center>  
+
+
+---------------------------------------------------
