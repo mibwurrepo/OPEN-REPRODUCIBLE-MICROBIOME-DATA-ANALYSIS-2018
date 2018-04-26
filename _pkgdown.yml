@@ -8,6 +8,8 @@ navbar:
   left:
     - text: "About"
       href: index.html
+    - text: "Program"
+      href: reference/Program.html
     - text: "Resources and Links"
       href: reference/Resources_and_links.html
     - text: "Gallery"
