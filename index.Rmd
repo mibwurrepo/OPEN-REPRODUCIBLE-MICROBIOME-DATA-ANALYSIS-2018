@@ -37,7 +37,7 @@ Additional details are forthcoming.
 
 ### Program  
 
-[ Click here for the program](docs/reference/Program.html)  
+[ Click here for the program](reference/Program.html)  
 
 **Registration will open shortly.**  
 
