@@ -4,7 +4,7 @@ template:
   
 
 navbar:
-  title: "OPEN & REPRODUCIBLE MICROBIOME DATA ANALYSIS SUMMER SCHOOL"
+  title: "OPEN & REPRODUCIBLE MICROBIOME DATA ANALYSIS SPRING SCHOOL"
   left:
     - text: "About"
       href: index.html
