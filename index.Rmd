@@ -1,6 +1,6 @@
 
 ---
-title: "OPEN & REPRODUCIBLE MICROBIOME DATA ANALYSIS SUMMER SCHOOL"
+title: "OPEN & REPRODUCIBLE MICROBIOME DATA ANALYSIS SPRING SCHOOL"
 author: "MolEco WUR"
 ---
 
@@ -12,9 +12,9 @@ author: "MolEco WUR"
   
 <center>![ Organisers](docs/images/logos.png)</center> 
 
-Three day summer school on basics of high throughput 16S rRNA gene sequencing data analysis. This summer school is organised in collaboration with [VLAG](https://www.vlaggraduateschool.nl/en.htm), [Laboratory of Microbiology](https://www.wur.nl/en/Expertise-Services/Chair-groups/Agrotechnology-and-Food-Sciences/Laboratory-of-Microbiology.htm), [Systems and Synthetic Biology](https://www.wur.nl/en/Expertise-Services/Chair-groups/Agrotechnology-and-Food-Sciences/Laboratory-of-Systems-and-Synthetic-Biology.htm), Wageningen University & Research, the Netherlands and [Department of Mathematics and Statistics University of Turku](https://www.utu.fi/en/units/sci/units/math/Pages/home.aspx), Finland. This year it will be held at [Wageningen University & Research](https://www.wur.nl/en.htm). We will cover topics related to basics of sequencing and microbial community analysis. We will use [NG-Tax]( https://f1000research.com/articles/5-1791/v1) and [R](https://www.r-project.org/) based tools like [Phyloseq](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0061217), [microbiome](http://microbiome.github.io/microbiome/) and [ggplot2](http://ggplot2.org/) for downstream data analysis and visualization.   
+Three day spring school on basics of high throughput 16S rRNA gene sequencing data analysis. This spring school is organised in collaboration with [VLAG graduate school](https://www.vlaggraduateschool.nl/en.htm), [Laboratory of Microbiology](https://www.wur.nl/en/Expertise-Services/Chair-groups/Agrotechnology-and-Food-Sciences/Laboratory-of-Microbiology.htm), [Systems and Synthetic Biology](https://www.wur.nl/en/Expertise-Services/Chair-groups/Agrotechnology-and-Food-Sciences/Laboratory-of-Systems-and-Synthetic-Biology.htm), Wageningen University & Research, the Netherlands and [Department of Mathematics and Statistics University of Turku](https://www.utu.fi/en/units/sci/units/math/Pages/home.aspx), Finland. This year it will be held at [Wageningen University & Research](https://www.wur.nl/en.htm). We will cover topics related to basics of sequencing and microbial community analysis. We will use [NG-Tax]( https://f1000research.com/articles/5-1791/v1) and [R](https://www.r-project.org/) based tools like [Phyloseq](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0061217), [microbiome](http://microbiome.github.io/microbiome/) and [ggplot2](http://ggplot2.org/) for downstream data analysis and visualization.   
 
-### Focus of summer school:
+### Focus of spring school:
 The primary aim is introduce microbial community data analysis. There will be talks and discussion on theory and methodology for analysis of microbial community data. We will cover topics ranging from design of studies, sequencing technologies, importance of controls and standardized DNA processing. Supervised hands-on training covering analyses from raw reads using NG-Tax, downstream analysis in R for exploration and analysis of microbiome sequencing data will be priority. There will be a strong focus on using [R](https://www.r-project.org/), [R Studio](https://www.rstudio.com/) for moving towards reproducible and open science.    
 
 ### Target applicants:
@@ -22,24 +22,26 @@ Anyone who plans to *or* is currently doing high throughput microbial community 
 No prior knowledge of R software is required.  
 
 ### Location:  
-The summer school will be organised in Wageningen University & Research, The Netherlands. 
+The spring school will be organised in Wageningen University & Research, The Netherlands. 
 
-Additional details are forthcoming.
 
 **Number of participants: 25**    
 
 ### Registration dates  
 
-* **Starting date: 30th April 2018**   
+* **Starting date: 1st May 2018**   
 
 * **Deadline: 18th May 2018**  
 
-**Registration fees is 150 Euros**  
-The registration fees is inclusive of lunch and coffee on all three days of the course.     
+### How to register?    
+
+**Please send an email to mib.moleco@wur.nl with the subject line as _microbiomeschool2018_**
+
+ <p> Registration fees 150 &euro;</p>      
 
 The fees _does not_ include accomodation and travel costs.  
 
-**Registration will open shortly.**  
+We will confirm your registration by email and send the further information.  
 
 **For more information**
 
@@ -62,7 +64,7 @@ The fees _does not_ include accomodation and travel costs.
 
 For more information visit our university website:  
 
-* [VLAG](https://www.vlaggraduateschool.nl/en.htm)  
+* [VLAG Graduate School](https://www.vlaggraduateschool.nl/en.htm)  
 
 * [Laboratory of Microbiology](https://www.wur.nl/en/Expertise-Services/Chair-groups/Agrotechnology-and-Food-Sciences/Laboratory-of-Microbiology.htm)  
 
